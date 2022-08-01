@@ -17,3 +17,5 @@ tests/node_modules
 
 # direnv cache
 .direnv
+
+.idea
