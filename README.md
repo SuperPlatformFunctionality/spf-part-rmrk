@@ -1,4 +1,4 @@
-# ![SPF](media/SPF.png)
+# ![SPF](media/spf-rmrk-cover.jpg)
 
 **SPF RMRK Substrate Part built with [Substrate](https://substrate.io).**
 
